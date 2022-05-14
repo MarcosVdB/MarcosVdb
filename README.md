@@ -13,8 +13,6 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
 <div>
  
   ![Animação de cobra](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
